@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voucher-395717",
+  "private_key_id": "73dcfd7a3f7b28c24afb422ce11af84688a249e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCg4QfsOdr3y7WX\nTHAJcuzCq2jLxO3R5ddh0EmDDs4awqNAg2Fnq+x6YWKxD9qgaXWriF0oAubKdv6S\n2ijg9/rd2vqEbPg6UBCCo2ZqglVR0bZquhQxijAs5+KAfQUsd1tvLTGLsSXCpHrt\nOl5sDXmT5g89wHOJ0XWvk+ESQyY0ZmEIcjv+4RaZzpbm/cgpw+qSDFNsSCGqmijy\nrKf1u4N8niQHZtnrICrHX01/jImlP823XrT7Z7HpU3T4Q7LXBEptU8NKVeprrcrI\nwdLY5lmgKOrDGn2PZm7QEl3mSMhhnL8w9VeOISe1tl6ozK32JCN3LYGlX+bDsgIm\nK5CcJUVRAgMBAAECggEAECURG1nhgXtYH4VAW5Rk0fLrdwKN5sHw88wYKn60fI9C\nnJVqs6GXX18xTSlVBILc2BBc3+htoo0fRlu+HTiJnJTOjfZVEV4KUB/nheILP6Ui\n8DI5F1EhvUnuizwwphoayw0PIzCNhGtm+jJguil+hVMBvc3X0nF6pNp7bG6gcYLZ\nRTUEvjXAdDWE4XLt4DU09tUHXsRwMb6e9TFwiniKegdoedhStKomuwTiSJiwETws\nxZDvmAScQzYLXswmGJyKe0DlYK0TmBi86f3Yv8B+8TQ1ONBlug+uGnfspZZb1sve\no6jl6/w50p/EcbCOhkgOl0CKl9nYqoYugjb4q0z3uQKBgQDf8E9cY8OUPWfwCfWs\nKxTdoSDtn4ipZ9FP65eGwEjk1KcDrveaq6YSZqTc3AyzmpfIhI4R41VPzqp1ONl/\na3AW0zZdRGEPXAwT8fxdyRnU7KJXv5qs4X6w+irbUsZ4nl6DdGoDjSfrDCaZWgMw\nBGqFQ1iPSURfHw/11SZSHqB+aQKBgQC36X0lR/ukwwQgSzMZKaNri4RpKPtHRH/i\n1sWUMczeIQ7u5ttFB1gPXrbgWiDUiA0XfQaW8RTKXChhXv0tmwM0gBqF05Ifn9BO\nXzSOpU1k1r8NKDq6VWKnMMHhYrFjcouD3eub5sWVC7SjmxuYKALyT4VzLw9XTeBy\ngaW7vO0CqQKBgD4kJ0GSBZG7QH5hpSSzh8TAk6yc2oV346Nz0sZ30UJ+qCHjiZ4I\nB7uPdCw9e+DTA0+HSQ05slDFHpQMxH4RSDdtQOa8tNpYRpm6SreTuHFXgO0spDVZ\nFZjysrXN0HlkKQH9afW2U99rrcJcMgo/D3gPaiHIyQpESl+DWHDtQsgRAoGAYBRt\nOtLWVodDWpOuyFCGfaLPtBii3eKdZSaK5hb2Tn26zXhxyShDCxSSObccO6wwGrtI\nfAbKs8VdmzEC15aKIB1kvdGAH2Fgc/EtBfC59Bp0iS0hMUN2XJ4OS+9BeRDYbjW7\n5yCyzGDnKCnaSq1sjKaas0g8nYGj5m5w5RmYQLECgYEAkXo3ltW1mWJcO6nDhzkp\nSws+D0EG2aE2RiJR2PK90aCHQTrhvoq2zNXT4l3d6GpVc7Qa0raIkOA4kjn38h4a\nRMcuZr3LT2Yncp529Z5JUg5FYey7Fm21d1aiYC5c7tmWCtfidlm9VKxC/9pFRdIL\nzfYzZEn5YVBE7z6BHV5OkyY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amorfati-indonesia@voucher-395717.iam.gserviceaccount.com",
+  "client_id": "101652978618008664560",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amorfati-indonesia%40voucher-395717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
