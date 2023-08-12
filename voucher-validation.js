@@ -1,10 +1,14 @@
-let google = require('googleapis');
-let secretKey = require("https://raw.githubusercontent.com/tegarhermawan7/Amorfati/main/voucher-395717-73dcfd7a3f7b.json);
-let jwtClient = new google.auth.JWT(
-       secretKey.client_email,
-       null,
-       secretKey.private_key,
-       ['https://www.googleapis.com/auth/spreadsheets']);
+// Import necessary modules and JSON
+const google = require('googleapis');
+const secretKey = require('https://raw.githubusercontent.com/tegarhermawan7/Amorfati/main/voucher-395717-73dcfd7a3f7b.json');
+
+// Define JWT client
+const jwtClient = new google.auth.JWT(
+  secretKey.client_email,
+  null,
+  secretKey.private_key,
+  ['https://www.googleapis.com/auth/spreadsheets']
+);
 
 // Authenticate request
 jwtClient.authorize(function (err, tokens) {
@@ -19,9 +23,9 @@ jwtClient.authorize(function (err, tokens) {
 // Function to validate voucher
 function validateVoucher() {
   const voucherNumber = document.getElementById('voucherNumber').value;
-  let spreadsheetId = '1hiHsVNMYHM6mUSEneKNUTzWUJsdSTqkDUYfcNo3zBaA';
-  let sheetRange = 'Voucher!A:A';
-  let sheets = google.sheets('v4');
+  const spreadsheetId = '1hiHsVNMYHM6mUSEneKNUTzWUJsdSTqkDUYfcNo3zBaA';
+  const sheetRange = 'Voucher!A:A';
+  const sheets = google.sheets('v4');
   
   sheets.spreadsheets.values.get({
     auth: jwtClient,
